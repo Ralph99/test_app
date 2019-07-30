@@ -1,3 +1,3 @@
 import this
 #this is just to test the command
- #seriously though, whatcha think?
+print "seriously though whatcha think"
