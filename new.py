@@ -3,3 +3,5 @@ import this
 print "seriously though whatcha think"
 
 print "this is just outrageous"
+
+print "isn't it"
